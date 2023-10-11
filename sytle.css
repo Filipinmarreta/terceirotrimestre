@@ -11,14 +11,19 @@ h1{
         margin:60px;
      margin-left: 700px;
 }
-.Logo_cabecalho{
+.cabecalho{
+    background-color: rgba(236, 106, 171, 0.788);
+    display: flex;
+.Logo_cabecalho}
 width: 1500px;
 margin-left: 200px;
 margin-top: 80px;
-}
-.lista_cabecalho
-
-.Item_lista_cabecalho{
+{
+.lista_cabecalho}
+display: flex;
+margin-left: 500px;
+{
+.Item_lista_cabecalho
 color: rgb(226, 53, 67);
 list-style: none;
 text-transform: uppercase;
