@@ -14,19 +14,23 @@ h1{
 .cabecalho{
     background-color: rgba(236, 106, 171, 0.788);
     display: flex;
-.Logo_cabecalho}
+}
+.Logo_cabecalho{ 
 width: 1500px;
 margin-left: 200px;
 margin-top: 80px;
-{
-.lista_cabecalho}
-display: flex;
-margin-left: 500px;
-{
-.Item_lista_cabecalho
-color: rgb(226, 53, 67);
-list-style: none;
-text-transform: uppercase;
-font-size: 40px;
-padding: 15x;
 }
+.lista_cabecalho{
+
+    display: flex;
+    margin-left: 500px;
+}
+
+.Item_lista_cabecalho{
+    color: rgb(226, 53, 67);
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 40px;
+    padding: 15x;
+}
+
